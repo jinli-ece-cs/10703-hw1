@@ -1,4 +1,4 @@
-# 10-703 Homework 1 Programming
+# School Assignment for 10703 (CMU)
 
 ## Setup
 
@@ -100,4 +100,4 @@ environment:
 python example.py
 ```
 
-# 10703-hw1
+
